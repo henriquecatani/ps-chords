@@ -6,7 +6,7 @@ The project is being developed for a Dualshock 4, but i plan to support other co
 
 Imagine the ps4 controller:
 
-<img width="600" alt="ps4 controller representation" src="/controllerDrawing.png" />
+<img width="600" alt="ps4 controller representation" src="/controllerDrawing.png">
 
 
 Now assign the notes of a scale to the buttons:
